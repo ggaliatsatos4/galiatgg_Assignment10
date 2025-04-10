@@ -1,4 +1,16 @@
-﻿using System;
+﻿/*
+File Name: Default.aspx
+Name: Gabe Galiatsatos
+email: galiatgg@mail.uc.edu
+Assignment Number: Assignment 10  
+Due Date: April 10, 2025
+Course #/Section: IS3050/001
+Semester/Year: Spring 2025
+Brief Description of the assignment: Recreating website from Assignment 2
+Brief Description of what this module does. Displays information about desired topic.
+Citations: w3schools.com
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
